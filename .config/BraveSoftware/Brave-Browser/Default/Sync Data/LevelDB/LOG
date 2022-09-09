@@ -1,0 +1,15 @@
+2022/09/09-14:49:23.509 56363 Reusing MANIFEST /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/09/09-14:49:23.510 56363 Recovering log #207
+2022/09/09-14:49:23.511 56363 Reusing old log /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000207.log 
+2022/09/09-14:50:54.765 5637d Level-0 table #211: started
+2022/09/09-14:50:54.772 5637d Level-0 table #211: 82896 bytes OK
+2022/09/09-14:50:54.775 5637d Delete type=0 #207
+2022/09/09-14:50:54.776 5637d Compacting 4@0 + 1@1 files
+2022/09/09-14:50:54.785 5637d Generated table #212@0: 53 keys, 6037 bytes
+2022/09/09-14:50:54.785 5637d Compacted 4@0 + 1@1 files => 6037 bytes
+2022/09/09-14:50:54.787 5637d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/09-14:50:54.787 5637d Delete type=2 #200
+2022/09/09-14:50:54.787 5637d Delete type=2 #203
+2022/09/09-14:50:54.787 5637d Delete type=2 #205
+2022/09/09-14:50:54.787 5637d Delete type=2 #208
+2022/09/09-14:50:54.787 5637d Delete type=2 #211

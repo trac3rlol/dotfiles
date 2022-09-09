@@ -1,0 +1,17 @@
+2022/09/07-23:45:27.340 eb5f Reusing MANIFEST /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/07-23:45:27.340 eb5f Recovering log #53
+2022/09/07-23:45:27.340 eb5f Reusing old log /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000053.log 
+2022/09/07-23:45:27.347 eb2d Level-0 table #59: started
+2022/09/07-23:45:27.348 eb2d Level-0 table #59: 573 bytes OK
+2022/09/07-23:45:27.350 eb2d Delete type=0 #53
+2022/09/07-23:45:27.350 eb2d Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/07-23:45:29.497 eb5f Level-0 table #61: started
+2022/09/07-23:45:29.498 eb5f Level-0 table #61: 595 bytes OK
+2022/09/07-23:45:29.500 eb5f Delete type=0 #58
+2022/09/07-23:45:29.500 eb5f Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 6707 : 1
+2022/09/07-23:45:29.500 eb5f Compacting 1@0 + 1@1 files
+2022/09/07-23:45:29.501 eb5f Generated table #62@0: 11 keys, 618 bytes
+2022/09/07-23:45:29.501 eb5f Compacted 1@0 + 1@1 files => 618 bytes
+2022/09/07-23:45:29.503 eb5f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/07-23:45:29.503 eb5f Delete type=2 #61
+2022/09/07-23:45:29.503 eb5f Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 6707 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

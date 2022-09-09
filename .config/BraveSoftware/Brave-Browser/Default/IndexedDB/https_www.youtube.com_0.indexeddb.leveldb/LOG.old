@@ -1,0 +1,32 @@
+2022/09/09-14:33:59.929 5058f Reusing MANIFEST /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/09-14:33:59.930 5058f Recovering log #363
+2022/09/09-14:33:59.940 5058f Reusing old log /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000363.log 
+2022/09/09-14:33:59.941 5058f Delete type=2 #361
+2022/09/09-14:33:59.941 5058f Delete type=2 #364
+2022/09/09-14:37:18.706 50585 Level-0 table #368: started
+2022/09/09-14:37:18.728 50585 Level-0 table #368: 1031915 bytes OK
+2022/09/09-14:37:18.731 50585 Delete type=0 #363
+2022/09/09-14:38:22.845 5058f Compacting 1@1 + 1@2 files
+2022/09/09-14:38:22.854 5058f Generated table #369@1: 979 keys, 71095 bytes
+2022/09/09-14:38:22.854 5058f Compacted 1@1 + 1@2 files => 71095 bytes
+2022/09/09-14:38:22.856 5058f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/09-14:38:22.856 5058f Delete type=2 #365
+2022/09/09-14:38:22.856 5058f Delete type=2 #368
+2022/09/09-14:42:07.703 50586 Level-0 table #371: started
+2022/09/09-14:42:07.714 50586 Level-0 table #371: 980958 bytes OK
+2022/09/09-14:42:07.718 50586 Delete type=0 #367
+2022/09/09-14:42:18.338 50586 Compacting 1@1 + 1@2 files
+2022/09/09-14:42:18.350 50586 Generated table #372@1: 1050 keys, 72106 bytes
+2022/09/09-14:42:18.350 50586 Compacted 1@1 + 1@2 files => 72106 bytes
+2022/09/09-14:42:18.354 50586 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/09-14:43:57.506 50585 Level-0 table #374: started
+2022/09/09-14:43:57.533 50585 Level-0 table #374: 959507 bytes OK
+2022/09/09-14:43:57.535 50585 Delete type=2 #369
+2022/09/09-14:43:57.535 50585 Delete type=0 #370
+2022/09/09-14:43:57.535 50585 Delete type=2 #371
+2022/09/09-14:44:17.181 50585 Compacting 1@1 + 1@2 files
+2022/09/09-14:44:17.186 50585 Generated table #375@1: 1112 keys, 79612 bytes
+2022/09/09-14:44:17.186 50585 Compacted 1@1 + 1@2 files => 79612 bytes
+2022/09/09-14:44:17.188 50585 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/09-14:44:17.188 50585 Delete type=2 #372
+2022/09/09-14:44:17.188 50585 Delete type=2 #374

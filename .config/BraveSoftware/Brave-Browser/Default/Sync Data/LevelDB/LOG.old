@@ -1,0 +1,6 @@
+2022/09/09-14:33:58.799 50598 Reusing MANIFEST /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/09/09-14:33:58.799 50598 Recovering log #204
+2022/09/09-14:33:58.806 50598 Reusing old log /home/tracerlol/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000204.log 
+2022/09/09-14:39:58.740 50583 Level-0 table #208: started
+2022/09/09-14:39:58.746 50583 Level-0 table #208: 76807 bytes OK
+2022/09/09-14:39:58.749 50583 Delete type=0 #204
