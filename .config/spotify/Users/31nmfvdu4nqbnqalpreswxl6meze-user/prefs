@@ -1,0 +1,11 @@
+audio.equalizer.low_mid_peak_gain_v2=223696213
+audio.equalizer.low_peak_gain_v2=626349397
+audio.equalizer_v2=true
+audio.crossfade_v2=true
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.1.49\",\"app_state\":\"MISSING\",\"created_timestamp\":1720036441,\"device_id\":\"54c956cb-fc78-42f4-b55d-49f2b7c76466\",\"dial_location_url\":\"http://192.168.1.49:7678/nservice/\",\"display_name\":\"[TV] Samsung 6 Series (49)\",\"last_seen\":1720041540,\"manufacturer\":\"Samsung Electronics\",\"model_name\":\"UE49KU6400\",\"product_cap\":\"Resolution:1920X1080,Tizen,Y2016\",\"public_ip\":\"2a02:2149:8ba3:c200:5c31:5bde:c30e:8114\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"ccb11ab883da\",\"port\":9,\"retries\":400}}]"
+audio.play_bitrate_enumeration=3
+audio.play_bitrate_non_metered_enumeration=3
+audio.crossfade.time_v2=8911
+app.player.volume=31005
+audio.equalizer.low_shelf_gain_v2=760567125

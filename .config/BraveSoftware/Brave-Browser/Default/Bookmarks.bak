@@ -1,0 +1,171 @@
+{
+   "checksum": "91a7bad15f5cfd177eb8bac13b2c4a8e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13258062509000000",
+            "date_last_used": "13356444434303492",
+            "guid": "157fef77-7e5e-4946-ad55-f74362b36915",
+            "id": "5",
+            "name": "youtube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13281482917000000",
+            "date_last_used": "13353428952729776",
+            "guid": "9af3a058-59ca-4842-b4f8-88713924e218",
+            "id": "6",
+            "name": "reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13284649954000000",
+            "date_last_used": "13350941415172050",
+            "guid": "d07996a1-192b-47dc-967e-bcda4789d69b",
+            "id": "7",
+            "name": "mtype",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13319217051933749",
+            "date_last_used": "13344611740692259",
+            "guid": "51cf130a-d9cd-4144-9d2d-f5020e67bd43",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "piratebay",
+            "type": "url",
+            "url": "https://thepiratebay.org/index.html"
+         }, {
+            "date_added": "13317740643744874",
+            "date_last_used": "13360019083548305",
+            "guid": "74334d75-9d64-411a-b559-e3fdf9e22838",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "υποδομη",
+            "type": "url",
+            "url": "https://www.edu4schools.gr/Student/Home"
+         }, {
+            "date_added": "13322151638966694",
+            "date_last_used": "13364154211281436",
+            "guid": "0aa3aab3-bd65-4a1a-a3e1-567197c9cf95",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chatgpt",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13325239340301429",
+            "date_last_used": "13341327787552772",
+            "guid": "52595670-50fb-4e28-b5b8-ff02e0a6779d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chatgpt-dan",
+            "type": "url",
+            "url": "https://github.com/0xk1h0/ChatGPT_DAN"
+         }, {
+            "date_added": "13323471451833509",
+            "date_last_used": "13334062048673501",
+            "guid": "2244fbd1-404e-4a47-b13c-8bf70dac899c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "boxrec",
+            "type": "url",
+            "url": "https://boxrec.com/"
+         }, {
+            "date_added": "13331563089428100",
+            "date_last_used": "13364317999205739",
+            "guid": "2e487550-2528-48c3-8c31-d9cd5099b045",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "github",
+            "type": "url",
+            "url": "https://github.com/trac3rlol"
+         }, {
+            "date_added": "13356368828813207",
+            "date_last_used": "0",
+            "guid": "9e235f8e-a904-4ad6-8d65-131d45b22758",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13356993834785068",
+            "date_last_used": "13358262700753987",
+            "guid": "a6637e13-3712-4096-9277-ee7af4ecb913",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "looperman",
+            "type": "url",
+            "url": "https://www.looperman.com/"
+         }, {
+            "date_added": "13357735944451239",
+            "date_last_used": "0",
+            "guid": "d05ddfb1-8cf9-42c4-82e5-c8a230dd4507",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "g-meh",
+            "type": "url",
+            "url": "https://g-meh.com/library/windows"
+         }, {
+            "date_added": "13362010977045438",
+            "date_last_used": "0",
+            "guid": "358e887c-f663-44d1-b68b-67fb2ba126f9",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chunk",
+            "type": "url",
+            "url": "https://www.chunkbase.com/apps/seed-map#seed=6881287961226987954&platform=java_1_20&dimension=overworld&x=-13821&z=-16376&zoom=0.433"
+         } ],
+         "date_added": "13364341482830056",
+         "date_last_used": "0",
+         "date_modified": "13362010977045438",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364341482830062",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364341482830080",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgr6/vbrjWQAAAAAEgAaWFpwcThpWXRUTWI4bnFRTmlDUDRCS1BTRjYwK2lXRjB5U3VzRW84RXhrcVhtODE2cG1iZzVuRHFCVmNyK3dJcjQxSzJoQ3pNQVBvdWFqaXd4cDNXU3VBPT0qGDVLVVBDY2pLeGRrb0g3bUhDTDNmM3c9PUgDEqoBCBESpQEKHGUyeGpVUVJ6SXl5V2E2YnlpWG0rOHFhWTlSaz0SJDkyMTYzMGY5LTU1MDktNDQ3ZS05OGViLWExZTUwMTRmZGYxYxgAIAAoADDJ5dKp/jE4lZbSqf4xQJWW0qn+MUoccWo1UWg1SXl0NGdpbDZ2Q2NCaVdiUG1aaEdzPVohIh///7FiV1BrYUNkaG9vckhFRmd3dGVibGY4bVN3KzA9ZegmzngSqQEIEBKkAQocdVFsMC9sUlJyNlI3dHphM0l6TWlzL1JOR1V3PRIkMDcyNDJmMTUtNTViMi00MGJhLWJjMDAtYTE3NzczMTE1OTUwGAAgACgAMKPok7PuMTiD8pKz7jFAg/KSs+4xShxiaEhiM3Z5K1NCTjR0WE5KSWorSWVaQ0hXVEE9WiAiHv/9aVhWM3ZBV1BvSUdGU0hzejV1SCtjVXV1UlY0PWUdQ2avEqgBCAkSowEKHFRrVStWY2UveVdwMWdHTkhSa1hSdnlnVzF5MD0SJDAzMWUxYmI0LTY1ZGEtNDI3Mi04MjkwLTdhOGU5ODE1ODMyORgAIAAoADDM19fu9jE4+vvhhpsxQPr74YabMUocME05UGNiS24waXFDM2ZBNDhjenRSWFJGSWhnPVofIh27ZFlLKzVMRklmZzV5VVp5ZVoyZ1ZPYVZvaXlZPWWMMASeEqgBCA0SowEKHHNuZzRzLy90MnA3SFN1T2Q2NXR2TExQN015MD0SJDVmNjdiNGIzLWM0MTItNDFlNC05OTc4LWFhZTkwMjZlNzQzORgAIAAoADC9v/v1hjI4+vvhhpsxQPr74YabMUocNlFHM2xnL0I1c3g2bmNieVNSOXlCOEVsN1JjPVofIh39L3lSSlV3Zlh1WS95dFdlbEtHVG9xVUlOYTdVPWWTVEPCEqcBCAcSogEKHDRRQzlkQjFma1dHWVRMRW9lRXdseTZtSmJEST0SJDc1NzI4N2VmLTVjZWYtNDE1Ni1iMTU4LTEyZmY1NzZlOTRlNBgAIAAoADDouMHO6jE4+vvhhpsxQPr74YabMUocYmQwVWgwTVJTZWc5NWlMSXA5ek5LN1Eva0M4PVoeIhx2Ujk2enp6OGliWDU3dFo1aUV1czM4ZmRuMm89ZQFh8DoSqAEICBKjAQocTUZPWEcyNTNRZkJtQXJ1dHBveml5eW9JenJnPRIkN2JhYzk2ZmEtM2E4Ny00MTgxLWE2NTItYjU1ZjQ5ZmQ5ZmEyGAAgACgAMIe5wc7qMTj6++GGmzFA+vvhhpsxShx3U29sTkQwK0s0cmZUM3FLTHkwb2ZwaTlvV289Wh8iHZgvSVRocHVhckJhRmpoTDhPQ3laYSt3bUIwS0U9Zdop9TkSqAEICxKjAQocTFZRSHljSE1QWUVIMXYxWklGM0xNYjZmZ013PRIkM2RkNDI5OGMtZTQ5ZC00OTIzLWFkZjctMGMwYTYwMTJmMmIyGAAgACgAMJm5wc7qMTj6++GGmzFA+vvhhpsxShxCdG1Hb2dRV05sOUN3YTU3TzBGNkxkZGM1YUE9Wh8iHfdjSXJxbVZydnM2T3owbDArUlhXcTY5VTBNdFU9ZcClKLoSqAEIChKjAQocWTJRT09FTS94K2JyVmhVSGtmSFQyTkpuMWdrPRIkNTI4MWFhZmYtMzQ1NC00NDkxLTk4Y2MtNTMwMmQ1NDc2NTcyGAAgACgAMIiCz6eGMjj6++GGmzFA+vvhhpsxShxKVFRSaDdCbU9nV2NwdGdadjU3R0hsaUY4dE09Wh8iHe44cWZTbGdoNXBUcXdFUFpFRGtUZGpCa3pRNXc9ZcAK7VgSqQEIDxKkAQocNk1MMXV4MHFJbldQS1ZDQTBXUS8rOGI5emhNPRIkMjVlNWI3NzEtNzhlZS00Mzk2LWFjZjEtOTMwNDA1YjQzNmQyGAAgACgAMLLoqa7wMTihjqTR6zFAoY6k0esxShxkWmxzMWl5eFZnMk9ieURKSTRPWUFPSFhiS2M9WiAiHv/7dm1PWGFCQmVDMm9mTnpzczZ3aFZJYkIzb2Q4PWWmSTaAEqcBCAYSogEKHG02a3lPRUpBTXRLOU05NXpTeFhrNFJ5ZEtFVT0SJGIyNDVmNDEzLTgwYjUtNDJlOS04YTYyLTk0YjA5ZDhmNzQzMxgAIAAoADDjuMHO6jE4+vvhhpsxQPr74YabMUocZGkvd3hKVjBRN0hmRUJ3dGd1U1MwUTZLRG0wPVoeIhxjaEpTLzJwZzRDa0RnK204dUlVaU1CY0dxaUE9ZcAr9PASpwEIBRKiAQocclk1MVFyanlPS0FhNklOT0txazdTOE5pb0JFPRIkMzZkNjRjZWMtYmFlOS00YWY4LTkxOGQtYWU5MTEwMzIyZDBhGAAgACgAMN24wc7qMTj6++GGmzFA+vvhhpsxShxnYnczdnFxQ2FFbncya2E2LzNXWllTSDZZYlk9Wh4iHFFRN0ROUG9mbXVKVnZVY2RJQ3UzMU93UVZIYz1lOPk5MxKpAQgOEqQBChx6czE0eVd2UjZZNDl4dnZpc1JoMFViVXBwT1k9EiQ4ZGNmNDc0Zi1kZjAzLTRlOWEtOWU5Yi1hN2EzZWM0ZGVkZGIYACAAKAAwx7jBzuoxOI3joKfpMUCN46Cn6TFKHHBrL0dkU3pucXNybTZNVGRqTjFqb3hpbkNiWT1aICIe//dRbk41YXpNcG9SQXZZQ0N6c1pkVTlSakNKazQ9ZZs9hbYSqAEIDBKjAQocNStQNFYwdWZGNGxheng0cFpvVEd1UGpYWk40PRIkYmJlOTZlMDMtMWMxZi00YzYwLTgxYWUtNGE5MjNhMDU1NzEzGAAgACgAMOy4wc7qMTj6++GGmzFA+vvhhpsxShw2M0d6d3ZUaXA2S2JycGZOYW1zbzJFcWV2NEk9Wh8iHftJK0RubGxRcGloUi9Pa1Z6b01zN2Z6d1dQcm89ZSlqDEwSgwEIARJ/Chx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRkMDA5ZDIzZS01MDhhLTQ5NTItOTdmYS0zZDlmOTFhNjBjZTIYACAAKAAwATiu9eGGmzFArvXhhpsxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKDAQgCEn8KHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDcwMjAxMzgwLTBhNGMtNGM3Yy1hNmRhLThmZjBlMzU3OTg5MxgAIAAoADABOK714YabMUCu9eGGmzFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEoMBCAMSfwocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkZTZmMjU0YzctOThiZS00NTMyLTg3NWUtMDRhYWY2YmY4Y2VlGAAgACgAMAE4rvXhhpsxQK714YabMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

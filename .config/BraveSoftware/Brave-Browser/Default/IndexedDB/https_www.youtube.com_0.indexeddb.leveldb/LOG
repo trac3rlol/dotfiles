@@ -1,0 +1,7 @@
+2024/07/03-00:19:24.556 90ec Reusing MANIFEST /home/tracer/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/03-00:19:24.556 90ec Recovering log #129
+2024/07/03-00:19:24.562 90ec Reusing old log /home/tracer/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000129.log 
+2024/07/03-00:19:26.841 90ec Level-0 table #134: started
+2024/07/03-00:19:26.851 90ec Level-0 table #134: 548839 bytes OK
+2024/07/03-00:19:26.854 90ec Delete type=0 #129
+2024/07/03-00:19:26.854 90ef Manual compaction at level-0 from '\x00?\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00@\x00\x00\x00' @ 0 : 0; will stop at (end)

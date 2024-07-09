@@ -1,0 +1,170 @@
+{
+   "checksum": "91a7bad15f5cfd177eb8bac13b2c4a8e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13258062509000000",
+            "date_last_used": "13356444434303492",
+            "guid": "157fef77-7e5e-4946-ad55-f74362b36915",
+            "id": "5",
+            "name": "youtube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13281482917000000",
+            "date_last_used": "13353428952729776",
+            "guid": "9af3a058-59ca-4842-b4f8-88713924e218",
+            "id": "6",
+            "name": "reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13284649954000000",
+            "date_last_used": "13350941415172050",
+            "guid": "d07996a1-192b-47dc-967e-bcda4789d69b",
+            "id": "7",
+            "name": "mtype",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13319217051933749",
+            "date_last_used": "13344611740692259",
+            "guid": "51cf130a-d9cd-4144-9d2d-f5020e67bd43",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "piratebay",
+            "type": "url",
+            "url": "https://thepiratebay.org/index.html"
+         }, {
+            "date_added": "13317740643744874",
+            "date_last_used": "13360019083548305",
+            "guid": "74334d75-9d64-411a-b559-e3fdf9e22838",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "υποδομη",
+            "type": "url",
+            "url": "https://www.edu4schools.gr/Student/Home"
+         }, {
+            "date_added": "13322151638966694",
+            "date_last_used": "13364154211281436",
+            "guid": "0aa3aab3-bd65-4a1a-a3e1-567197c9cf95",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chatgpt",
+            "type": "url",
+            "url": "https://chat.openai.com/chat"
+         }, {
+            "date_added": "13325239340301429",
+            "date_last_used": "13341327787552772",
+            "guid": "52595670-50fb-4e28-b5b8-ff02e0a6779d",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chatgpt-dan",
+            "type": "url",
+            "url": "https://github.com/0xk1h0/ChatGPT_DAN"
+         }, {
+            "date_added": "13323471451833509",
+            "date_last_used": "13334062048673501",
+            "guid": "2244fbd1-404e-4a47-b13c-8bf70dac899c",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "boxrec",
+            "type": "url",
+            "url": "https://boxrec.com/"
+         }, {
+            "date_added": "13331563089428100",
+            "date_last_used": "13364317999205739",
+            "guid": "2e487550-2528-48c3-8c31-d9cd5099b045",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "github",
+            "type": "url",
+            "url": "https://github.com/trac3rlol"
+         }, {
+            "date_added": "13356368828813207",
+            "date_last_used": "0",
+            "guid": "9e235f8e-a904-4ad6-8d65-131d45b22758",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13356993834785068",
+            "date_last_used": "13358262700753987",
+            "guid": "a6637e13-3712-4096-9277-ee7af4ecb913",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "looperman",
+            "type": "url",
+            "url": "https://www.looperman.com/"
+         }, {
+            "date_added": "13357735944451239",
+            "date_last_used": "0",
+            "guid": "d05ddfb1-8cf9-42c4-82e5-c8a230dd4507",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "g-meh",
+            "type": "url",
+            "url": "https://g-meh.com/library/windows"
+         }, {
+            "date_added": "13362010977045438",
+            "date_last_used": "0",
+            "guid": "358e887c-f663-44d1-b68b-67fb2ba126f9",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "chunk",
+            "type": "url",
+            "url": "https://www.chunkbase.com/apps/seed-map#seed=6881287961226987954&platform=java_1_20&dimension=overworld&x=-13821&z=-16376&zoom=0.433"
+         } ],
+         "date_added": "13364341482830056",
+         "date_last_used": "0",
+         "date_modified": "13362010977045438",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364341482830062",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364341482830080",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
